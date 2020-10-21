@@ -1,0 +1,99 @@
+/* TODO: Make it awesome */ */
+body{
+    background-color: #F3EAC0;
+}
+header {
+background-color: #1E2640;
+position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  padding-top:20px;
+}
+h1{
+font-family: 'Staatliches', cursive;
+color: white;
+font-size: xx-large;
+}
+a {
+color: white;
+padding-bottom:20px;
+font-family: 'Staatliches', cursive;
+font-size: x-large;
+}
+a:hover {
+    color:#922C40;
+  }
+footer {
+background-color: #1E2640;   
+color: white;
+text-align: center;
+position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-family: 'Staatliches', cursive;
+  font-size: large;
+}
+ol{
+    line-height: 1.5;
+    color:#1E2640;
+    padding-top: 140px;
+    background-color: #DC9750;
+    font-family: 'Staatliches', cursive;
+    padding-left: 20px;
+    padding-bottom:20px;
+    text-align: center; 
+    font-size: x-large;   
+}
+legend{
+font-family: 'Staatliches', cursive;
+font-size: xX-large;
+padding-left: 50px;
+padding-top: 50px;
+padding-bottom:20px;
+}
+#Itemlist
+{
+padding-left: 50px;
+padding-top:10px;
+color:#1E2640;
+font-family: 'Staatliches', cursive;
+font-size: x-large;
+}
+#quantitySpan{
+padding-left: 50px;
+padding-top:10px;
+color:#1E2640;
+font-family: 'Staatliches', cursive;
+font-size: x-large;
+}
+#items{
+  font-family: 'Staatliches', cursive;
+  font-size: x-large;
+  color: grey;
+}
+#quantity{
+font-family: 'Staatliches', cursive;
+  font-size: x-large;
+  color: grey;
+}
+input{
+    font-family: 'Staatliches', cursive;
+    font-size: x-large;
+    color:#1E2640;
+    padding-left: 10px;  
+}
+.listOfOrders{
+    font-family: 'Staatliches', cursive;
+    font-size: x-large;
+    color:#922C40;
+    margin-left: 50px; 
+    margin-top: 50px;
+    background-color: ivory;
+    padding: 20px;
+    margin-right: 700px;
+    box-shadow: 2px 2px 4px gray;
+    visibility: hidden;
+}
+
+
